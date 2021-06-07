@@ -59,6 +59,7 @@ let resumeData = {
         "YearOfLeaving":"April 2020",
         "Achievements":"Designed SFX for Women In Games International logo reveal",
         "Achievements2":"Students in the MediaWorks course produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond.",
+        "Achievements3":"https://usv.edu/student-projects/mediaworks/"
       },
       {
         "CompanyName":"Make Play Date, Inc.",
