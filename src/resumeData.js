@@ -30,7 +30,6 @@ let resumeData = {
         "specialization":"B.S.  Digital Audio Technology",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
-        "Achievements":"Some Achievements"
       },
     ],
     "work":[
