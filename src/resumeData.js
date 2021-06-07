@@ -182,7 +182,7 @@ let resumeData = {
       },
       {
         "name":"PureData Sound Synthesis Patch Library (2014)",
-        "description":"mobileapp",
+        "description":"PureData Synthesis Patches",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623022291/puredata_efruyx.png",
         "url":"https://github.com/thecluff"
       }
