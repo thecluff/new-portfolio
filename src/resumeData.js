@@ -48,7 +48,6 @@ let resumeData = {
         "specialization":"Music Producer",
         "MonthOfLeaving":"Sep 2017",
         "YearOfLeaving":"Present",
-        "Achievements":"Some Achievements",
         "Achievements":"Music Producer for teamHODL, a cryptocurrency rap group aimed at bringing awareness to the Blockchain space through music and art.",
         "Achievements2":" Performed at NEO DevCon 1 - San Francisco, 2018",
         "Achievements3":"Nominated for Best Crypto Musician - Crypto Influence Summit, NYC, 2018"
@@ -208,16 +207,16 @@ let resumeData = {
         "url":"https://makeplaydate.com"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ],
+    // "testimonials":[
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   },
+    //   {
+    //     "description":"This is a sample testimonial",
+    //     "name":"Some technical guy"
+    //   }
+    // ],
     
   }
   
