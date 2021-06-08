@@ -178,7 +178,7 @@ let resumeData = {
         "name":"Multi Effects Audio Processing Tool (2019)",
         "description":"DSP written in Swift",  
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623022039/DAT331_AudioEffectsProcessing_hbhgk8.png",
-        "url":"https://github.com/thecluff/swiftaudioprogramming"
+        "url":"https://thecluff.com/multiprocessing/thecluffMultiProcessing.dmg"
       },
       {
         "name":"PureData Sound Synthesis Patch Library (2014)",
