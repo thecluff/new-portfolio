@@ -106,67 +106,6 @@ let resumeData = {
         "skillname":"Front End Development | JS (React Native), Swift, CSS/HTML"
       },
     ],
-    "musicPortfolio":[
-      {
-        "name":"Professor Ali - XFactor (2015)",
-        "description":"Session Turntablist (Mixed by Deegan Mack Adams)",
-        "imgurl":"https://i1.sndcdn.com/artworks-000102166224-6a93cp-t500x500.jpg",
-        "url":"https://music.apple.com/gh/album/xfactor/955634683"
-      },
-      {
-        "name":"Kaly Jay - The Sky Is Purple LP (2016)",
-        "description":"Composer, Producer, Engineer",
-        "imgurl":"https://m.media-amazon.com/images/I/71sLbxdT+nL._SS500_.jpg",
-        "url":"https://music.apple.com/nz/album/the-sky-is-purple/1107745632"
-      },
-      {
-        "name":"Mikos Da Gawd & Charlie Cluff - Brand New (2018)",
-        "description":"Co-Producer",  
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623024356/avatars-TqFSJdprTeLhNeu3-Oy5GAQ-t500x500_kww5mh.jpg",
-        "url":"https://soundcloud.com/smilehighclubcommunity/brandnew"
-      },
-      {
-        "name":"teamHODL - 2.0 EP (2021)",
-        "description":"Composer, Producer, Engineer",
-        "imgurl":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/20/e7/0f/20e70f59-557f-1fa0-6bf1-9cedc14ad25a/artwork.jpg/1200x1200bf-60.jpg",
-        "url":"https://music.apple.com/us/album/2-0-ep/1554371126"
-      }
-    ],
-
-    "sdPortfolio":[
-      {
-        "name":"Women in Games Int'l Logo Intro",
-        "description":"Sound Design",
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623017020/wigi_lnvyth.jpg",
-        "url":"https://www.twitch.tv/videos/1036305497?t=00h00m49s"
-      },
-      {
-        "name":"Playdate",
-        "description":"Notification Alert & UI Sound Design",  
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020073/mpd_ia7mag.png",
-        "url":"https://makeplaydate.com"
-      }
-    ],
-    "radioPortfolio":[
-      {
-        "name":"WBUR | Gene-Editing Gets A Go-Ahead (February 2017)",
-        "description":"Audio Engineer",
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623016946/onpoint_ezvzsc.png",
-        "url":"https://www.wbur.org/onpoint/2017/02/22/gene-editing-crispr"
-      },
-      {
-        "name":"BBC | Being Open About Breast Cancer (May 2017)",
-        "description":"Audio Engineer",
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623016944/bbc_ij4wc3.png",
-        "url":"https://www.bbc.co.uk/programmes/p052yb20"
-      },
-      {
-        "name":"NPR | How I Built This Ft. Gary Kremen (October 2016) [Unreleased]",
-        "description":"Audio Engineer",  
-        "imgurl":"https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=500",
-        "url":"https://www.npr.org/podcasts/510313/how-i-built-this"
-      },
-    ],
     "progPortfolio":[
       // {
       //   "name":"Fluid Wavetable Synthesizer Virtual Instrument",
@@ -207,6 +146,69 @@ let resumeData = {
         "url":"https://makeplaydate.com"
       }
     ],
+    "sdPortfolio":[
+      {
+        "name":"Women in Games Int'l Logo Intro",
+        "description":"Sound Design",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623017020/wigi_lnvyth.jpg",
+        "url":"https://www.twitch.tv/videos/1036305497?t=00h00m49s"
+      },
+      {
+        "name":"Playdate",
+        "description":"Notification Alert & UI Sound Design",  
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020073/mpd_ia7mag.png",
+        "url":"https://makeplaydate.com"
+      }
+    ],
+    "radioPortfolio":[
+      {
+        "name":"WBUR | Gene-Editing Gets A Go-Ahead (February 2017)",
+        "description":"Audio Engineer",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623016946/onpoint_ezvzsc.png",
+        "url":"https://www.wbur.org/onpoint/2017/02/22/gene-editing-crispr"
+      },
+      {
+        "name":"BBC | Being Open About Breast Cancer (May 2017)",
+        "description":"Audio Engineer",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623016944/bbc_ij4wc3.png",
+        "url":"https://www.bbc.co.uk/programmes/p052yb20"
+      },
+      {
+        "name":"NPR | How I Built This Ft. Gary Kremen (October 2016) [Unreleased]",
+        "description":"Audio Engineer",  
+        "imgurl":"https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=500",
+        "url":"https://www.npr.org/podcasts/510313/how-i-built-this"
+      },
+    ],
+    "musicPortfolio":[
+      {
+        "name":"Professor Ali - XFactor (2015)",
+        "description":"Session Turntablist (Mixed by Deegan Mack Adams)",
+        "imgurl":"https://i1.sndcdn.com/artworks-000102166224-6a93cp-t500x500.jpg",
+        "url":"https://music.apple.com/gh/album/xfactor/955634683"
+      },
+      {
+        "name":"Kaly Jay - The Sky Is Purple LP (2016)",
+        "description":"Composer, Producer, Engineer",
+        "imgurl":"https://m.media-amazon.com/images/I/71sLbxdT+nL._SS500_.jpg",
+        "url":"https://music.apple.com/nz/album/the-sky-is-purple/1107745632"
+      },
+      {
+        "name":"Mikos Da Gawd & Charlie Cluff - Brand New (2018)",
+        "description":"Co-Producer",  
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623024356/avatars-TqFSJdprTeLhNeu3-Oy5GAQ-t500x500_kww5mh.jpg",
+        "url":"https://soundcloud.com/smilehighclubcommunity/brandnew"
+      },
+      {
+        "name":"teamHODL - 2.0 EP (2021)",
+        "description":"Composer, Producer, Engineer",
+        "imgurl":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/20/e7/0f/20e70f59-557f-1fa0-6bf1-9cedc14ad25a/artwork.jpg/1200x1200bf-60.jpg",
+        "url":"https://music.apple.com/us/album/2-0-ep/1554371126"
+      }
+    ],
+
+
+    
     // "testimonials":[
     //   {
     //     "description":"This is a sample testimonial",
