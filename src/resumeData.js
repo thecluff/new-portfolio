@@ -3,7 +3,7 @@ let resumeData = {
     "role": " ",
     "linkedinId":"charlie-david-cluff",
     "soundcloudid": "Your soundcloudid",
-    "roleDescription": "I specialize in in all things Music Production, Sound Design, Audio Programming, and Front End App development.",
+    "roleDescription": "I specialize in all things Music Production, Sound Design, Audio Programming, and Front End App development.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-music"
         }
       ],
-    "aboutme":"I'm a San Francisco Bay Area based Augio Engineer sepcializing in Music Production, Sound Design, and Audio Programming. Additionally, I am experieneced in Web & Mobile Application Development.",
+    "aboutme":"I'm a San Francisco Bay Area based Audio Engineer sepcializing in Music Production, Sound Design, and Audio Programming. Additionally, I am experieneced in Web & Mobile Application Development.",
     "address":"San Jose, CA",
     "website":"https://thecluff.com/",
     "education":[
