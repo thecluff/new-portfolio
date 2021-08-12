@@ -3,7 +3,7 @@ let resumeData = {
     "role": " ",
     "linkedinId":"charlie-david-cluff",
     "soundcloudid": "Your soundcloudid",
-    "roleDescription": "I specialize in all things Music Production, Sound Design, Audio Programming, and Front End App development.",
+    "roleDescription": "I specialize in Audio Programming, Sound Design, Music Production, and Front End App development.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -26,7 +26,7 @@ let resumeData = {
     "website":"https://thecluff.com/",
     "education":[
       {
-        "UniversityName":"Cogswell Polytechnical College",
+        "UniversityName":"University of Silicon Valley",
         "specialization":"B.S.  Digital Audio Technology",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
@@ -88,16 +88,10 @@ let resumeData = {
     "skillsDescription":"",
     "skills":[
       {
-        "skillname":"Music Production | Logic Pro X, Pro Tools, Reason, Ableton, Audition "
+        "skillname":"Digital Signal Processing | Swift, C++, JS "
       },
       {
         "skillname":"Sound Design"
-      },
-      {
-        "skillname":"Interactive Audio | Wwise, FMOD"
-      },
-      {
-        "skillname":"Digital Signal Processing | Swift, C++, JS "
       },
       {
         "skillname":"Video Production | Final Cut Pro, Premiere, Davinci Resolve, After Effects, Cinema4D"
@@ -105,6 +99,15 @@ let resumeData = {
       {
         "skillname":"Front End Development | JS (React Native), Swift, CSS/HTML"
       },
+      {
+        "skillname":"Music Production | Logic Pro X, Pro Tools, Reason, Ableton, Audition "
+      },
+
+      {
+        "skillname":"Interactive Audio | Wwise, FMOD"
+      },
+
+
     ],
     "progPortfolio":[
       // {
