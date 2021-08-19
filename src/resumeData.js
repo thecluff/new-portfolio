@@ -3,7 +3,7 @@ let resumeData = {
     "role": " ",
     "linkedinId":"charlie-david-cluff",
     "soundcloudid": "Your soundcloudid",
-    "roleDescription": "I specialize in Audio Programming, Sound Design, Music Production, and Front End App development.",
+    "roleDescription": "I specialize in Audio Programming, Sound Design, Application Development, and Music Production.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-music"
         }
       ],
-    "aboutme":"I'm a San Francisco Bay Area based Audio Engineer sepcializing in Music Production, Sound Design, and Audio Programming. Additionally, I am experieneced in Web & Mobile Application Development.",
+    "aboutme":"I'm a San Francisco Bay Area based Audio Engineer sepcializing in Audio Programming, Broadcasting, Sound Design, Application Development, and Music Production.",
     "address":"San Jose, CA",
     "website":"https://thecluff.com/",
     "education":[
@@ -43,6 +43,15 @@ let resumeData = {
         "Achievements3":"Engineered live studio sessions for NPR, WBUR, and BBC"
       },
       {
+        "CompanyName":"MediaWorks",
+        "specialization":"Sound Designer",
+        "MonthOfLeaving":"May 2020",
+        "YearOfLeaving":"April 2021",
+        "Achievements":"Designed SFX for Women In Games International AudioVisual logo",
+        "Achievements2":"Sourced and Produced Voiceover for Hungarian-American Chamber of Commerce, Texas",
+        "Achievements3":"Students in the MediaWorks course produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond."
+      },
+      {
         "CompanyName":"HODL Corp.",
         "specialization":"Music Producer",
         "MonthOfLeaving":"Sep 2017",
@@ -52,28 +61,23 @@ let resumeData = {
         "Achievements3":"Nominated for Best Crypto Musician - Crypto Influence Summit, NYC, 2018"
       },
       {
-        "CompanyName":"MediaWorks",
-        "specialization":"Sound Designer",
-        "MonthOfLeaving":"May 2020",
-        "YearOfLeaving":"April 2020",
-        "Achievements":"Designed SFX for Women In Games International logo reveal",
-        "Achievements2":"Students in the MediaWorks course produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond.",
-        "Achievements3":"https://usv.edu/student-projects/mediaworks/"
-      },
-      {
         "CompanyName":"Make Play Date, Inc.",
         "specialization":"Mobile App Developer",
         "MonthOfLeaving":"April 2018",
         "YearOfLeaving":"March 2019",
-        "Achievements":"Designed playdate 2.0 UI and brought designs into reality with React Native",
-        "Achievements2":"Developed features that had +90% adoption rates, doubled user activity, and reduced churn by 50%, resulting in 5.8k active users and 6.7k social media followers"
+        "Achievements":"Designed playdate 2.0 UI using Sketch",
+        "Achievements2":"Developed Front End with React Native",
+        "Achievements3":"Developed features that had +90% adoption rates, doubled user activity, and reduced churn by 50%, resulting in 5.8k active users and 6.7k social media followers"
       },
       {
         "CompanyName":"Braille Skateboarding",
         "specialization":"Video Editor",
         "MonthOfLeaving":"April 2017",
         "YearOfLeaving":"April 2018",
-        "Achievements":"Video editor for Braille Skateboarding, the largest skateboarding channel on YouTube."
+        "Achievements":"Video editor for Braille Skateboarding, the largest skateboarding channel on YouTube.",
+        "Achievements2":"Operated camera equipment",
+        "Achievements3":"Videos edited have over 1,000,000 views collectively"
+
       },
       {
         "CompanyName":"SkyCog, Inc.",
@@ -89,6 +93,9 @@ let resumeData = {
     "skills":[
       {
         "skillname":"Digital Signal Processing | Swift, C++, JS "
+      },
+      {
+        "skillname":"Broadcast | Live Radio production, ISDN, Comrex"
       },
       {
         "skillname":"Sound Design"
@@ -146,39 +153,39 @@ let resumeData = {
         "name":"Playdate",
         "description":"Front End Developer",  
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020073/mpd_ia7mag.png",
-        "url":"https://makeplaydate.com"
+        "url":"https://drive.google.com/file/d/1I1UfaDaeYivSztVVfdtSIb0CNoeExrBA/view?usp=sharing"
       }
     ],
     "sdPortfolio":[
       {
-        "name":"Women in Games Int'l Logo Intro",
+        "name":"Women in Games Int'l AudioVisual Logo",
         "description":"Sound Design",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623017020/wigi_lnvyth.jpg",
-        "url":"https://www.twitch.tv/videos/1036305497?t=00h00m49s"
+        "url":"https://www.getwigi.com/"
       },
       {
         "name":"Playdate",
         "description":"Notification Alert & UI Sound Design",  
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020073/mpd_ia7mag.png",
-        "url":"https://makeplaydate.com"
+        "url":"https://drive.google.com/file/d/1I1UfaDaeYivSztVVfdtSIb0CNoeExrBA/view?usp=sharing"
       }
     ],
     "radioPortfolio":[
       {
         "name":"WBUR | Gene-Editing Gets A Go-Ahead (February 2017)",
-        "description":"Audio Engineer",
+        "description":"Remote Audio Engineer (ISDN)",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623016946/onpoint_ezvzsc.png",
         "url":"https://www.wbur.org/onpoint/2017/02/22/gene-editing-crispr"
       },
       {
         "name":"BBC | Being Open About Breast Cancer (May 2017)",
-        "description":"Audio Engineer",
+        "description":"Remote Audio Engineer (ISDN)",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623016944/bbc_ij4wc3.png",
         "url":"https://www.bbc.co.uk/programmes/p052yb20"
       },
       {
         "name":"NPR | How I Built This Ft. Gary Kremen (October 2016) [Unreleased]",
-        "description":"Audio Engineer",  
+        "description":"Remote Audio Engineer (ISDN)",  
         "imgurl":"https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=500",
         "url":"https://www.npr.org/podcasts/510313/how-i-built-this"
       },
