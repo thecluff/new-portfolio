@@ -46,7 +46,7 @@ let resumeData = {
         "CompanyName":"MediaWorks",
         "specialization":"Sound Designer",
         "MonthOfLeaving":"May 2020",
-        "YearOfLeaving":"April 2021",
+        "YearOfLeaving":" - April 2021",
         "Achievements":"Designed SFX for Women In Games International AudioVisual logo",
         "Achievements2":"Sourced and Produced Voiceover for Hungarian-American Chamber of Commerce, Texas",
         "Achievements3":"Students in the MediaWorks course produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond."
@@ -55,7 +55,7 @@ let resumeData = {
         "CompanyName":"HODL Corp.",
         "specialization":"Music Producer",
         "MonthOfLeaving":"Sep 2017",
-        "YearOfLeaving":"Present",
+        "YearOfLeaving":" - Present",
         "Achievements":"Music Producer for teamHODL, a cryptocurrency rap group aimed at bringing awareness to the Blockchain space through music and art.",
         "Achievements2":" Performed at NEO DevCon 1 - San Francisco, 2018",
         "Achievements3":"Nominated for Best Crypto Musician - Crypto Influence Summit, NYC, 2018"
@@ -64,7 +64,7 @@ let resumeData = {
         "CompanyName":"Make Play Date, Inc.",
         "specialization":"Mobile App Developer",
         "MonthOfLeaving":"April 2018",
-        "YearOfLeaving":"March 2019",
+        "YearOfLeaving":" - March 2019",
         "Achievements":"Designed playdate 2.0 UI using Sketch",
         "Achievements2":"Developed Front End with React Native",
         "Achievements3":"Developed features that had +90% adoption rates, doubled user activity, and reduced churn by 50%, resulting in 5.8k active users and 6.7k social media followers"
@@ -73,7 +73,7 @@ let resumeData = {
         "CompanyName":"Braille Skateboarding",
         "specialization":"Video Editor",
         "MonthOfLeaving":"April 2017",
-        "YearOfLeaving":"April 2018",
+        "YearOfLeaving":" - April 2018",
         "Achievements":"Video editor for Braille Skateboarding, the largest skateboarding channel on YouTube.",
         "Achievements2":"Operated camera equipment",
         "Achievements3":"Videos edited have over 1,000,000 views collectively"
@@ -83,7 +83,7 @@ let resumeData = {
         "CompanyName":"SkyCog, Inc.",
         "specialization":"Web Development Internship",
         "MonthOfLeaving":"June 2008",
-        "YearOfLeaving":"September 2012",
+        "YearOfLeaving":" - September 2012",
         "Achievements":"Worked with HTML, CSS, ASP/ASPX, and SQL",
         "Achievements2":"Performed front end website and internal dashboard UI maintenance, DNS maintenance, and data backup",
         "Achievements3":"(Previously Kopavi Systems, Inc.)",
@@ -139,13 +139,13 @@ let resumeData = {
     "devPortfolio":[
       {
         "name":"Bolly 92.3 FM Mobile App",
-        "description":"Designer & Developer",
+        "description":"Full Stack Developer",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020669/bollyIcon_fbryhe.png",
         "url":"https://bolly923fm.com/"
       },
       {
         "name":"Bamboozled!",
-        "description":"Front End Developer",
+        "description":"UI Designer & Front End Developer",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020504/bamb_copy_id6ess.jpg",
         "url":"https://bamboozledapp.com/"
       },
@@ -153,7 +153,7 @@ let resumeData = {
         "name":"Playdate",
         "description":"Front End Developer",  
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020073/mpd_ia7mag.png",
-        "url":"https://drive.google.com/file/d/1I1UfaDaeYivSztVVfdtSIb0CNoeExrBA/view?usp=sharing"
+        "url":"https://www.crunchbase.com/organization/make-play-date"
       }
     ],
     "sdPortfolio":[
