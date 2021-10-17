@@ -108,10 +108,13 @@ let resumeData = {
         "skillname":"Digital Signal Processing | Swift, C++, JS "
       },
       {
-        "skillname":"Broadcast | Live Radio production, ISDN, Comrex"
+        "skillname":"Music Production & Sound Design | Logic Pro X, Pro Tools, Reason, Ableton, Audition "
       },
       {
-        "skillname":"Music Production & Sound Design | Logic Pro X, Pro Tools, Reason, Ableton, Audition "
+        "skillname":"Front End Development | JS (React Native), Swift, CSS/HTML"
+      },
+      {
+        "skillname":"Broadcast | Live Radio production, ISDN, Comrex"
       },
       {
         "skillname":"Interactive Audio | Wwise, FMOD"
@@ -119,9 +122,7 @@ let resumeData = {
       {
         "skillname":"Video Production | Final Cut Pro, Premiere, Davinci Resolve, After Effects, Cinema4D"
       },
-      {
-        "skillname":"Front End Development | JS (React Native), Swift, CSS/HTML"
-      },
+
 
     ],
     "progPortfolio":[
