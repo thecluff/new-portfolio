@@ -99,16 +99,8 @@ export default class Porfolio extends Component {
             })
           }
           </div>
-
-
-
-          
-
- 
-
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           <h1>Music Production</h1>
-
           {
             resumeData.musicPortfolio && resumeData.musicPortfolio.map((item)=>{
               return(

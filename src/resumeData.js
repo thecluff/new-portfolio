@@ -192,6 +192,30 @@ let resumeData = {
     ],
     "musicPortfolio":[
       {
+        "name":"teamHODL - teamHODL EP (2017)",
+        "description":"Composer, Producer, Engineer",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1587503325/teamhodl_content/thodl_album_whqsdg.jpg",
+        "url":"https://album.link/s/1g2T2l1RoNH0mrX9apjwA9"
+      },
+      {
+        "name":"teamHODL - 2.0 EP (2021)",
+        "description":"Composer, Producer, Engineer",
+        "imgurl":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/20/e7/0f/20e70f59-557f-1fa0-6bf1-9cedc14ad25a/artwork.jpg/1200x1200bf-60.jpg",
+        "url":"https://album.link/i/1554371126"
+      },
+      {
+        "name":"teamHODL - NEO Anthem (2017)",
+        "description":"Composer, Producer, Engineer",  
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1587503296/teamhodl_content/NEO_3_xkeegq.jpg",
+        "url":"https://www.youtube.com/watch?v=Xr5BJTIu4I8"
+      },
+      {
+        "name":"Mikos Da Gawd & Charlie Cluff - Brand New (2018)",
+        "description":"Co-Producer",  
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623024356/avatars-TqFSJdprTeLhNeu3-Oy5GAQ-t500x500_kww5mh.jpg",
+        "url":"https://soundcloud.com/smilehighclubcommunity/brandnew"
+      },
+      {
         "name":"Professor Ali - XFactor (2015)",
         "description":"Session Turntablist (Mixed by Deegan Mack Adams)",
         "imgurl":"https://i1.sndcdn.com/artworks-000102166224-6a93cp-t500x500.jpg",
@@ -203,18 +227,8 @@ let resumeData = {
         "imgurl":"https://m.media-amazon.com/images/I/71sLbxdT+nL._SS500_.jpg",
         "url":"https://music.apple.com/nz/album/the-sky-is-purple/1107745632"
       },
-      {
-        "name":"Mikos Da Gawd & Charlie Cluff - Brand New (2018)",
-        "description":"Co-Producer",  
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623024356/avatars-TqFSJdprTeLhNeu3-Oy5GAQ-t500x500_kww5mh.jpg",
-        "url":"https://soundcloud.com/smilehighclubcommunity/brandnew"
-      },
-      {
-        "name":"teamHODL - 2.0 EP (2021)",
-        "description":"Composer, Producer, Engineer",
-        "imgurl":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/20/e7/0f/20e70f59-557f-1fa0-6bf1-9cedc14ad25a/artwork.jpg/1200x1200bf-60.jpg",
-        "url":"https://music.apple.com/us/album/2-0-ep/1554371126"
-      }
+
+
     ],
 
 
