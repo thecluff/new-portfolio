@@ -209,12 +209,6 @@ let resumeData = {
         "url":"https://video.wixstatic.com/video/8ac7e7_255db392c13d490fa6510f8b46731557/1080p/mp4/file.mp4"
       },
       {
-        "name":"NPR | How I Built This Ft. Gary Kremen (October 2016) [Unreleased]",
-        "description":"Remote Audio Engineer (ISDN)",  
-        "imgurl":"https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=500",
-        "url":"https://www.npr.org/podcasts/510313/how-i-built-this"
-      },
-      {
         "name":"BBC - The Documentary | Magical Money (2018)",
         "description":"Featured music production",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634451462/teamhodl_content/p066l8tv_tsfmet.jpg",
