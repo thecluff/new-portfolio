@@ -24,7 +24,7 @@ export default class Header extends Component {
                <h2 className="responsive-headline" style={{color:'white'}}>Audio Professional</h2>
                <br />
 
-               <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>Silicon Valley, CA</h3>
+               <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>San Jose, CA</h3>
                <hr/>
                <ul className="social">
                   {
