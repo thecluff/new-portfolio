@@ -156,20 +156,6 @@ let resumeData = {
         "url":"https://www.crunchbase.com/organization/make-play-date"
       }
     ],
-    "sdPortfolio":[
-      {
-        "name":"Women in Games Int'l AudioVisual Logo",
-        "description":"Sound Design",
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623017020/wigi_lnvyth.jpg",
-        "url":"https://www.getwigi.com/"
-      },
-      {
-        "name":"Playdate",
-        "description":"Notification Alert & UI Sound Design",  
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020073/mpd_ia7mag.png",
-        "url":"https://drive.google.com/file/d/1I1UfaDaeYivSztVVfdtSIb0CNoeExrBA/view?usp=sharing"
-      }
-    ],
     "radioPortfolio":[
       {
         "name":"WBUR | Gene-Editing Gets A Go-Ahead (February 2017)",
@@ -191,6 +177,24 @@ let resumeData = {
       },
     ],
     "musicPortfolio":[
+      {
+        "name":"Women in Games Int'l AudioVisual Logo",
+        "description":"Sound Designer",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623017020/wigi_lnvyth.jpg",
+        "url":"https://youtu.be/tG3DvbTWaX4"
+      },
+      {
+        "name":"Incessant Rain Animation Studios - Ketchup PSA",
+        "description":"VO Producer and Engineer",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634447574/teamhodl_content/Screen_Shot_2021-10-16_at_10.12.13_PM_ppzj4k.png",
+        "url":"https://player.vimeo.com/video/531519020?h=3ccf2d49a4"
+      },
+      {
+        "name":"Hungarian-American Chamber of Commerce Short",
+        "description":"VO Producer and Engineer",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634447765/teamhodl_content/Screen_Shot_2021-10-16_at_10.14.35_PM_c9li0l.png",
+        "url":"https://video.wixstatic.com/video/8ac7e7_255db392c13d490fa6510f8b46731557/1080p/mp4/file.mp4"
+      },
       {
         "name":"teamHODL - teamHODL EP (2017)",
         "description":"Composer, Producer, Engineer",
