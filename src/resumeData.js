@@ -51,7 +51,7 @@ let resumeData = {
         "specialization":"Sound Designer",
         "MonthOfLeaving":"May 2020",
         "YearOfLeaving":" - April 2021",
-        "Achievements1":"Students in the MediaWorks course at USV produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond.",
+        "Achievements":"Students in the MediaWorks course at USV produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond.",
         "Achievements2":"Designed SFX for Women In Games International audiovisual logo",
         "Achievements3":"Sourced & Produced VO in PSA for Incessant Rain Animation Studios and used RX8 to edit audio assets",
         "Achievements4":"Sourced & Produced VO in animated short for Hungarian-American Chamber of Commerce",
