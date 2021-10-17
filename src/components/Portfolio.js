@@ -31,14 +31,13 @@ export default class Porfolio extends Component {
           }
           </div>
           <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-          <h1>Sound Design</h1>
-
+          <h1>Audio Production</h1>
           {
-            resumeData.sdPortfolio && resumeData.sdPortfolio.map((item)=>{
+            resumeData.musicPortfolio && resumeData.musicPortfolio.map((item)=>{
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                  <a href={item.url} target="_blank">
+                    <a href={item.url} target="_blank">
                       <img src={`${item.imgurl}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">
@@ -99,28 +98,7 @@ export default class Porfolio extends Component {
             })
           }
           </div>
-          <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-          <h1>Music Production</h1>
-          {
-            resumeData.musicPortfolio && resumeData.musicPortfolio.map((item)=>{
-              return(
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
-                    <a href={item.url} target="_blank">
-                      <img src={`${item.imgurl}`} className="item-img"/>
-                      <div className="overlay">
-                        <div className="portfolio-item-meta">
-                          <h5>{item.name}</h5>
-                          <p>{item.description}</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              )
-            })
-          }
-          </div>
+
         </div>
       </div>
   </section>
