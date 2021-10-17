@@ -111,7 +111,10 @@ let resumeData = {
         "skillname":"Broadcast | Live Radio production, ISDN, Comrex"
       },
       {
-        "skillname":"Sound Design"
+        "skillname":"Music Production & Sound Design | Logic Pro X, Pro Tools, Reason, Ableton, Audition "
+      },
+      {
+        "skillname":"Interactive Audio | Wwise, FMOD"
       },
       {
         "skillname":"Video Production | Final Cut Pro, Premiere, Davinci Resolve, After Effects, Cinema4D"
@@ -119,14 +122,6 @@ let resumeData = {
       {
         "skillname":"Front End Development | JS (React Native), Swift, CSS/HTML"
       },
-      {
-        "skillname":"Music Production | Logic Pro X, Pro Tools, Reason, Ableton, Audition "
-      },
-
-      {
-        "skillname":"Interactive Audio | Wwise, FMOD"
-      },
-
 
     ],
     "progPortfolio":[
@@ -229,7 +224,7 @@ let resumeData = {
       {
         "name":"teamHODL - NEO Anthem (2017)",
         "description":"Composer, Producer, Engineer",  
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634447070/teamhodl_content/NEO_hy8oj0.jpg",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634452257/teamhodl_content/NEO_hovbk8.png",
         "url":"https://www.youtube.com/watch?v=Xr5BJTIu4I8"
       },
 
