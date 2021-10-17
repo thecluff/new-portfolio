@@ -206,7 +206,7 @@ let resumeData = {
       {
         "name":"teamHODL - NEO Anthem (2017)",
         "description":"Composer, Producer, Engineer",  
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1587503296/teamhodl_content/NEO_3_xkeegq.jpg",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634447070/teamhodl_content/NEO_hy8oj0.jpg",
         "url":"https://www.youtube.com/watch?v=Xr5BJTIu4I8"
       },
       {
