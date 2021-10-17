@@ -4,40 +4,34 @@ export default class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
-         <div className="row skill">
+        <div className="row skill">
+          <div className="three columns header-col">
+            <h1>
+              <span>Skills</span>
+            </h1>
+          </div>
 
-<div className="three columns header-col">
-   <h1><span>Skills</span></h1>
-</div>
+          <div className="nine columns main-col">
+            <p>{resumeData.skillsDescription}</p>
 
-<div className="nine columns main-col">
-
-   <p>
-   {resumeData.skillsDescription}
-   </p>
-
-<div className="bars">
-
-  <ul className="skills">
-    {
-      resumeData.skills && resumeData.skills.map((item) => {
-        return(
-          <li>
-          <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
-          </span><em>{item.skillname}</em>
-          </li>
-        )
-      })
-    }
-
- </ul>
-
-</div>
-
-</div>
-
-</div>
-<hr />
+            <div className="bars">
+              <ul className="skills">
+                {resumeData.skills &&
+                  resumeData.skills.map((item) => {
+                    return (
+                      <li>
+                        <span
+                          className={`bar-expand ${item.skillname.toLowerCase()}`}
+                        ></span>
+                        <em>{item.skillname}</em>
+                      </li>
+                    );
+                  })}
+              </ul>
+            </div>
+          </div>
+        </div>
+        <hr />
         <div className="row education">
           <div className="three columns header-col">
             <h1>
@@ -96,14 +90,18 @@ export default class Resume extends Component {
                       <p style={{ marginLeft: 50 }}>
                         {item.Achievements3} <br />
                       </p>
+                      <p style={{ marginLeft: 50 }}>
+                        {item.Achievements4} <br />
+                      </p>
+                      <p style={{ marginLeft: 50 }}>
+                        {item.Achievements5} <br />
+                      </p>
                     </div>
                   </div>
                 );
               })}
           </div>
         </div>
-
-       
       </section>
     );
   }

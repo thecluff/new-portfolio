@@ -30,6 +30,7 @@ let resumeData = {
         "specialization":"B.S.  Digital Audio Technology",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
+        "Achievements":"Studies included DSP, sound synthesis, studio recording, sound design, game audio, film/game scoring, human auditory perception, live sound, music composition, entrepreneurship, and other audio-specific topics "
       },
     ],
     "work":[
@@ -39,44 +40,53 @@ let resumeData = {
         "MonthOfLeaving":"Feb 2016",
         "YearOfLeaving":" - Present",
         "Achievements":"Audio Producer and Board Operator for KSJO, 92.3FM",
-        "Achievements2":" Designed and developed Bolly 92.3FM Mobile App 2.0 with React Native",
-        "Achievements3":"Engineered live studio sessions for NPR, WBUR, and BBC"
+        "Achievements2":"Responsible for ensuring quality broadcasts, maintaining both company and FCC policies within the studio",
+        "Achievements3":"Engineered ISDN studio sessions for NPR, WBUR, and BBC",
+        "Achievements4":"Designed and developed Bolly 92.3 FM Mobile App 2.0 with React Native, released to 33k+ users",
+        "Achievements5":"",
+
       },
       {
         "CompanyName":"MediaWorks",
         "specialization":"Sound Designer",
         "MonthOfLeaving":"May 2020",
         "YearOfLeaving":" - April 2021",
-        "Achievements":"Designed SFX for Women In Games International AudioVisual logo",
-        "Achievements2":"Sourced and Produced Voiceover for Hungarian-American Chamber of Commerce, Texas",
-        "Achievements3":"Students in the MediaWorks course produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond."
+        "Achievements1":"Students in the MediaWorks course at USV produce impressive, industry-quality creative work for businesses in Silicon Valley and beyond.",
+        "Achievements2":"Designed SFX for Women In Games International audiovisual logo",
+        "Achievements3":"Sourced & Produced VO in PSA for Incessant Rain Animation Studios and used RX8 to edit audio assets",
+        "Achievements4":"Sourced & Produced VO in animated short for Hungarian-American Chamber of Commerce",
+        "Achievements5":"",
       },
       {
-        "CompanyName":"HODL Corp.",
+        "CompanyName":"teamHODL",
         "specialization":"Music Producer",
         "MonthOfLeaving":"Sep 2017",
         "YearOfLeaving":" - Present",
-        "Achievements":"Music Producer for teamHODL, a cryptocurrency rap group aimed at bringing awareness to the Blockchain space through music and art.",
-        "Achievements2":" Performed at NEO DevCon 1 - San Francisco, 2018",
-        "Achievements3":"Nominated for Best Crypto Musician - Crypto Influence Summit, NYC, 2018"
+        "Achievements":"Music Producer for teamHODL, a cryptocurrency rap group bringing awareness to Blockchain through music and art",
+        "Achievements2":"Performed at NEO DevCon 2018 - San Francisco, CA",
+        "Achievements3":"Presented at BlockTrain Global Blockchain Expo 2018 - Santa Clara, CA",
+        "Achievements4":"Nominated for Best Crypto Musician - Crypto Influence Summit 2018, NYC",
+        "Achievements5":"Awarded 3rd Best Crypto Rap Song - Hacker Noon Awards 2019",
       },
       {
         "CompanyName":"Make Play Date, Inc.",
         "specialization":"Mobile App Developer",
         "MonthOfLeaving":"April 2018",
         "YearOfLeaving":" - March 2019",
-        "Achievements":"Designed playdate 2.0 UI using Sketch",
-        "Achievements2":"Developed Front End with React Native",
-        "Achievements3":"Developed features that had +90% adoption rates, doubled user activity, and reduced churn by 50%, resulting in 5.8k active users and 6.7k social media followers"
+        "Achievements":"Designed playdate 2.0 UI and brought designs to life with React Native",
+        "Achievements2":"Produced audio assets for Push notifications and other in-app sounds",
+        "Achievements3":"Developed features that had +90% adoption rates, doubled user activity, and reduced churn by 50%, resulting in 5.8k active users and 6.7k social media followers",
+        "Achievements4":"",
+        "Achievements5":"",
       },
       {
         "CompanyName":"Braille Skateboarding",
         "specialization":"Video Editor",
         "MonthOfLeaving":"April 2017",
         "YearOfLeaving":" - April 2018",
-        "Achievements":"Video editor for Braille Skateboarding, the largest skateboarding channel on YouTube.",
-        "Achievements2":"Operated camera equipment",
-        "Achievements3":"Videos edited have over 1,000,000 views collectively"
+        "Achievements":"Video editor for Braille Skateboarding, the largest skateboarding channel on YouTube",
+        "Achievements2":"Assisted with camera operation, equipment setup/breakdown, and general on-set production tasks",
+        "Achievements3":"Managed video assets and worked closely with team members to deliver content in a consistent, timely manner each week"
 
       },
       {
@@ -87,6 +97,8 @@ let resumeData = {
         "Achievements":"Worked with HTML, CSS, ASP/ASPX, and SQL",
         "Achievements2":"Performed front end website and internal dashboard UI maintenance, DNS maintenance, and data backup",
         "Achievements3":"(Previously Kopavi Systems, Inc.)",
+        "Achievements4":"",
+        "Achievements5":"",
       },
     ],
     "skillsDescription":"",
@@ -151,7 +163,7 @@ let resumeData = {
       },
       {
         "name":"Playdate",
-        "description":"Front End Developer",  
+        "description":"UX/UI Designer & Front End Developer",  
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623020073/mpd_ia7mag.png",
         "url":"https://www.crunchbase.com/organization/make-play-date"
       }
@@ -208,31 +220,30 @@ let resumeData = {
         "url":"https://album.link/i/1554371126"
       },
       {
+        "name":"Mikos Da Gawd & Charlie Cluff - Brand New (2018)",
+        "description":"Co-Producer",  
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634450621/teamhodl_content/mikos_clf_acektn.jpg",
+        "url":"https://soundcloud.com/smilehighclubcommunity/brandnew"
+      },
+      {
         "name":"teamHODL - NEO Anthem (2017)",
         "description":"Composer, Producer, Engineer",  
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634447070/teamhodl_content/NEO_hy8oj0.jpg",
         "url":"https://www.youtube.com/watch?v=Xr5BJTIu4I8"
       },
-      {
-        "name":"Mikos Da Gawd & Charlie Cluff - Brand New (2018)",
-        "description":"Co-Producer",  
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623024356/avatars-TqFSJdprTeLhNeu3-Oy5GAQ-t500x500_kww5mh.jpg",
-        "url":"https://soundcloud.com/smilehighclubcommunity/brandnew"
-      },
-      {
-        "name":"Professor Ali - XFactor (2015)",
-        "description":"Session Turntablist (Mixed by Deegan Mack Adams)",
-        "imgurl":"https://i1.sndcdn.com/artworks-000102166224-6a93cp-t500x500.jpg",
-        "url":"https://music.apple.com/gh/album/xfactor/955634683"
-      },
+
       {
         "name":"Kaly Jay - The Sky Is Purple LP (2016)",
         "description":"Composer, Producer, Engineer",
         "imgurl":"https://m.media-amazon.com/images/I/71sLbxdT+nL._SS500_.jpg",
         "url":"https://music.apple.com/nz/album/the-sky-is-purple/1107745632"
       },
-
-
+      {
+        "name":"Professor Ali - XFactor (2015)",
+        "description":"Session Turntablist",
+        "imgurl":"https://i1.sndcdn.com/artworks-000102166224-6a93cp-t500x500.jpg",
+        "url":"https://music.apple.com/gh/album/xfactor/955634683"
+      },
     ],
 
 
