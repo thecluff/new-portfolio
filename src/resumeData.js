@@ -210,7 +210,7 @@ let resumeData = {
       },
       {
         "name":"BBC - The Documentary | Magical Money (2018)",
-        "description":"Featured music production",
+        "description":"Featured Music Production",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634451462/teamhodl_content/p066l8tv_tsfmet.jpg",
         "url":"https://www.bbc.co.uk/programmes/w3csxg99"
       },
