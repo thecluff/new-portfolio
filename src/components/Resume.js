@@ -54,6 +54,7 @@ export default class Resume extends Component {
                         </em>
                       </p>
                       <p>{item.Achievements}</p>
+                      <p>{item.Achievements2}</p>
                     </div>
                   </div>
                 );

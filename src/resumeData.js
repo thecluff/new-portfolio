@@ -30,7 +30,8 @@ let resumeData = {
         "specialization":"B.S.  Digital Audio Technology",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
-        "Achievements":"Studies included DSP, sound synthesis, studio recording, sound design, game audio, film/game scoring, human auditory perception, live sound, music composition, entrepreneurship, and other audio-specific topics "
+        "Achievements":"Studies included DSP, sound synthesis, studio recording, sound design, game audio, film/game scoring, human auditory perception, live sound, music composition, entrepreneurship, and other audio-specific topics",
+        "Achievements2":"(Formerly Cogswell Polytechnical College)"
       },
     ],
     "work":[
@@ -208,10 +209,16 @@ let resumeData = {
         "url":"https://video.wixstatic.com/video/8ac7e7_255db392c13d490fa6510f8b46731557/1080p/mp4/file.mp4"
       },
       {
-        "name":"teamHODL - teamHODL EP (2017)",
-        "description":"Composer, Producer, Engineer",
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1587503325/teamhodl_content/thodl_album_whqsdg.jpg",
-        "url":"https://album.link/s/1g2T2l1RoNH0mrX9apjwA9"
+        "name":"NPR | How I Built This Ft. Gary Kremen (October 2016) [Unreleased]",
+        "description":"Remote Audio Engineer (ISDN)",  
+        "imgurl":"https://media.npr.org/assets/img/2018/08/03/npr_hibt_podcasttile_sq-98320b282169a8cea04a406530e6e7b957665b3f.jpg?s=500",
+        "url":"https://www.npr.org/podcasts/510313/how-i-built-this"
+      },
+      {
+        "name":"BBC - The Documentary | Magical Money (2018)",
+        "description":"Featured music production",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634451462/teamhodl_content/p066l8tv_tsfmet.jpg",
+        "url":"https://www.bbc.co.uk/programmes/w3csxg99"
       },
       {
         "name":"teamHODL - 2.0 EP (2021)",
