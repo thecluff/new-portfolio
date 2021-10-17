@@ -117,9 +117,6 @@ let resumeData = {
         "skillname":"Broadcast | Live Radio production, ISDN, Comrex, ShoutCast"
       },
       {
-        "skillname":"Interactive Audio | Wwise, FMOD"
-      },
-      {
         "skillname":"Video Production | Final Cut Pro, Premiere, Davinci Resolve, After Effects, Cinema4D"
       },
 
