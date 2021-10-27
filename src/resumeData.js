@@ -105,13 +105,13 @@ let resumeData = {
     "skillsDescription":"",
     "skills":[
       {
-        "skillname":"Digital Signal Processing | Swift, C++, JavaScript, PureData"
+        "skillname":"DSP | Swift, C++, JavaScript, PureData"
       },
       {
-        "skillname":"Music Production & Sound Design | Logic Pro X, Pro Tools, Ableton, Audition, Reason, Wwise, FMOD, iZotope RX8"
+        "skillname":"Audio Production | Logic Pro X, Pro Tools, Ableton, Audition, Reason, Wwise, FMOD, iZotope RX8"
       },
       {
-        "skillname":"Front End Development | JS (React Native), Swift, CSS/HTML"
+        "skillname":"Front End Development | CSS/HTML, JS (React.js, React Native), GraphQL, PostgreSQL, MongoDB"
       },
       {
         "skillname":"Broadcast | Live Radio production, ISDN, Comrex, ShoutCast"
