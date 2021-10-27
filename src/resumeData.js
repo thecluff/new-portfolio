@@ -238,7 +238,12 @@ let resumeData = {
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1634452257/teamhodl_content/NEO_hovbk8.png",
         "url":"https://www.youtube.com/watch?v=Xr5BJTIu4I8"
       },
-
+      {
+        "name":"teamHODL - teamHODL EP (2017)",
+        "description":"Composer, Producer, Engineer",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623018387/ab67616d0000b2736e080fedaff55c211f6571cc_horlhj.jpg",
+        "url":"https://album.link/s/1g2T2l1RoNH0mrX9apjwA9"
+      },
       {
         "name":"Kaly Jay - The Sky Is Purple LP (2016)",
         "description":"Composer, Producer, Engineer",
