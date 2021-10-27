@@ -149,7 +149,7 @@ let resumeData = {
       },
       {
         "name":"C++ DSP & Audio Programming",
-        "description":"PureData Synthesis Patches",
+        "description":"Audio Programming and DSP writeen in C++",
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1635308827/cpp_clf_wesqrg.png",
         "url":"https://github.com/thecluff/CluffAudio/tree/main/C%2B%2B"
       },
