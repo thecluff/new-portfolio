@@ -130,17 +130,30 @@ let resumeData = {
       //   "url":"https://github.com/thecluff"
       // },
       {
-        "name":"Multi Effects Audio Processing Tool (2019)",
-        "description":"DSP written in Swift",  
+        "name":"DSP & Audio Prorgramming",
+        "description":"Javascript, C++, Swift, PureData",  
         "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623022039/DAT331_AudioEffectsProcessing_hbhgk8.png",
-        "url":"https://thecluff.com/multiprocessing/thecluffMultiProcessing.dmg"
+        "url":"https://github.com/thecluff/CluffAudio/"
+      },
+      {
+        "name":"Swift Audio Programming (2019)",
+        "description":"Swift Audio and DSP Programming",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1635308795/swift_clf_copy_2_yj1usj.png",
+        "url":"https://github.com/thecluff/CluffAudio/tree/main/Swift"
       },
       {
         "name":"PureData Sound Synthesis Patch Library (2014)",
         "description":"PureData Synthesis Patches",
-        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1623022291/puredata_efruyx.png",
-        "url":"https://github.com/thecluff"
-      }
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1635308795/pd_clf_copy_mvzcos.png",
+        "url":"https://github.com/thecluff/CluffAudio/tree/main/PureData"
+      },
+      {
+        "name":"C++ DSP & Audio Programming",
+        "description":"PureData Synthesis Patches",
+        "imgurl":"https://res.cloudinary.com/teamhodl/image/upload/v1635308827/cpp_clf_wesqrg.png",
+        "url":"https://github.com/thecluff/CluffAudio/tree/main/C%2B%2B"
+      },
+
     ],
     "devPortfolio":[
       {
