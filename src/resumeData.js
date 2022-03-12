@@ -36,15 +36,6 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Experis",
-        "specialization":"Encoding Technician at Google, Inc.",
-        "MonthOfLeaving":"Feb 2022",
-        "YearOfLeaving":" - Present",
-        "Achievements":"Contracting for Accenture, providing App/Cloud Analyst support for Google",
-        "Achievements5":"",
-
-      },
-      {
         "CompanyName":"Universal Media Access",
         "specialization":"Audio Producer | Mobile App Developer",
         "MonthOfLeaving":"Feb 2016",
